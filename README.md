@@ -14,3 +14,11 @@ Es necesario que los siguientes archivos esten presentes en la carpeta Dataset p
 -weather.csv<br>
 -yellow_trips_new.csv<br>
 -zones.csv<br>
+
+## Uso git
+Les recuerdo los pasos que debemos seguir para usar el repositorio<br>
+1. git pull (Copia la informacion de la ultima version del repo)<br>
+2. git add -A (Agrega la informacion extra de la carpeta para subirla al repositorio)<br>
+3. git status (Muestra los cambios que se realizaran en el repositorio, sirve para chequear)<br>
+4. git commit -m "< mesaje >" (Se "compromete?" con los cambios)<br>
+5. git push (Se suben los cambios)
